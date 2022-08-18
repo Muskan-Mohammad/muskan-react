@@ -2,7 +2,7 @@ import React from 'react';
 
 
 function Header ({ title}) {
-    return <h2> This is header | title is {title}</h2>
+    return <h2> This is Header section | We are learning {title}</h2>
     
 } 
 
